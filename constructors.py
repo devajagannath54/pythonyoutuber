@@ -12,7 +12,7 @@ class Employee:
         print(f'employee name={self.name}')
         print(f'empolyee id={self.emp_id}')
         print(f'empolyee salary={self.salary}')
-      # first commit on git
+   
 john=Employee('john cena',420,50000)
 print(john.__dict__)
 john.emp_info()
